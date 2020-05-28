@@ -8,3 +8,7 @@ elif exten[-1]=='cpp':
     print('c++')
 elif exten[-1]=='c':
     print('java')
+output:
+input the filename: abc.py
+The extension of the file is: 
+python
